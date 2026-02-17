@@ -1,0 +1,5 @@
+{
+  "name": "RuneScape PvM Hub",
+  "description": "A web-based PvM Hub project featuring a guide editor, preset maker, and gear simulator, modeled after pvme.io.",
+  "requestFramePermissions": []
+}
